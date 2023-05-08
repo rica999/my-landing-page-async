@@ -1,0 +1,19 @@
+{
+  "name": "my-landing-page-async",
+  "version": "1.0.0",
+  "description": "Landing Page personal con HTML, CSS y JavaScript puro",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Ricardo Chavez",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
